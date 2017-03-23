@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Connecting Sensors</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href='https://fonts.googleapis.com/css?family=Fira+Sans:400,400italic,500,500italic,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="../assets/css/style.css">
+    <link rel="icon" type="image/ico" href="https://mozillascience.org/img/favicon.ico">
+
+    <script src="https://code.jquery.com/jquery-2.1.4.min.js" type="text/javascript" charset="utf-8"></script>
+    <script src="../assets/javascript/script.js" type="text/javascript" charset="utf-8"></script>
+  </head>
+  <style>
+  table, th, td {
+      border: 2px solid orange;
+      border-collapse: collapse;
+  }
+  th, td {
+      padding: 15px;
+  }
+  </style>
+  <body>
+    <aside>
+      <div class="logo">
+        <a href="https://mozillascience.github.io/WOW-2017/" title="WOW-Montreal Homepage">
+          <img src="../assets/images/science-fox_verde.svg" />
+        </a>
+      </div>
+      <nav>
+        <a class="selected" href="#introduction">Introduction</a>
+        <a href="#steps-to-complete">Steps to Complete</a>
+        <a href="#glossary">Glossary</a>
+        <a href="#resources">Resources</a>
+      </nav>
+    </aside>
+
+    <article>
+      <div class="logo">
+        <a href="https://mozillascience.org" title="Mozilla Science Lab">
+          <img src="../assets/images/science-lab-logo.svg" />
+        </a>
+      </div>
+
+      <h1>Sensor Science</h1>
+
+      <div class="meta-information">
+        <p class="summary">
+          This activity is designed to introduce you to sensor data and a few resources for collecting sensor information for your projects.
+        </p>
+        <div class="details">
+          <time>45 minutes</time>
+          <p class="difficulty">For beginners</p>
+        </div>
+      </div>
+
+      <section class="track-details">
+        <section>
+          <h4>Format</h4>
+          <p>
+            This is a short reflection/reference exercise, feel free to explore the links and choose those that complement your work. 
+          </p>
+        </section>
+
+        <section>
+          <h4>Target Audience</h4>
+          <p>
+            Project leads and participants looking to add sensor information to their projects.
+          </p>
+        </section>
+
+        <section>
+          <h4>Materials</h4>
+          <ul>
+            <li>Pen/pencil &amp; paper or text editor</li>
+            <li>Browser for search/link opening</li>
+  
+          </ul>
+        </section>
+      </section>
+
+      <h2 id="introduction">Introduction</h2>
+
+      <p>
+        Sensors can bring an authenticity to your projects if you collect the data yourself, and they can also help you observe environmental and remote factors that are otherwise imperceptable to humans.
+      </p>
+
+      <p>
+        This exercise will walk you through the basics of sensors and hardware programming, recommending some tools, curriculum, and libraries along the way.
+
+      <h2 id="steps-to-complete">Steps to Complete</h2>
+
+      <ol class="steps">
+        <!-- Step 1 -->
+        <li>
+          <h1>Review some basics</h1>
+          <time>10 minutes</time>
+          <h3>Sensor terms</h3>
+          <p>
+            Electronic systems or ciruits that perform functions useful to humans can often be classified as "sensors" or "transducers." The basic definition of both is that they are devices that convert one physical quality to another
+          </p>
+          <p>
+            A <strong>sensor</strong> has some sort of input function, that "senses" physical change in response to exitation. They are commonly used to sense energy forms like movement, electrical signals, radient energy, thermal or magnetic energy etcet.
+          </p>
+          <p>
+            An <strong>actuator</strong> has some sort of output function, and are used to control an external device, ex. movement or sound. They are commonly used to switch voltages or currents.
+          </p>
+          <p>
+            A <strong>transducer</strong> is an umbrella term for sensors and actuators, of which there are many types, inlcuding analogue and digital.
+          </p>
+          <p>
+            A <strong>microcontroller</strong> is an small computer containing memory, a processor core and I/O peripherals, you might hear about them in connection with sensors, as they are often intermediaries to sensors and the programs you write to process sensor outputs.
+          </p>
+          <p>
+            There are loads of different sensor types, some commone ones listed in the table below:
+          </p>
+          <table style="width:100%">
+
+            <tr>
+              <th><strong>Quantity Measured:</strong></th>
+              <th><strong>Input Device (Sensor)</strong></th>
+              <th><strong>Output Device (Actuator)</strong></th>
+            </tr>
+            <tr>
+              <td>Light Level</td>
+              <td>Light Dependant Resistor (LDR); Photodiode; Photo-transistor; Solar Cell</td>
+              <td>Lights &amp; Lamps; LED’s &amp; Displays; Fibre Optics</td>
+            </tr>
+            <tr>
+              <td>Temperature</td>  
+              <td>Thermocouple; Thermistor; Thermostat; Resistive Temperature Detectors</td> 
+              <td>Heater; Fan</td>
+            </tr> 
+            <tr> 
+              <td>Force/Pressure</td>
+              <td>Strain Gauge; Pressure Switch; Load Cells</td>
+              <td>Lifts &amp; Jacks; Electromagnet; Vibration</td>
+            </tr>
+            <tr>
+              <td>Position</td>
+              <td>Potentiometer; Encoders; Reflective/Slotted Opto-switch; LVDT</td>
+              <td>Motor; Solenoid; Panel Meters</td>
+            </tr>
+            <tr>
+              <td>Speed</td>
+              <td>Tacho-generator; Reflective/Slotted Opto-coupler; Doppler Effect Sensors</td>
+              <td>AC &amp; DC Motors; Stepper Motor;Brake</td>
+            </tr>
+            <tr>
+              <td>Sound</td>
+              <td>Carbon Microphone; Piezo-electric Crystal</td>
+              <td>Bell; Buzzer; Loudspeaker</td>
+            </tr>
+          </table>
+          <h3>Types of Sensors</h3>
+          <p>
+            There are many "sensor types,"" analogue and digital, active and passive, input/output...the following two explanations may help you describe the kind of data you anticipate working with, which will in turn help you determine the data format requirements and limitations of your project.
+          </p>
+          <p>
+            <strong>Anaglogue Sensors</strong> produce a continuous output signal or voltage, and are useful for measuring physical qualities like Temperature, Speed, Pressure or Displacement.
+          </p>
+          <p>
+            <strong>Digital Sensors</strong> produce discrete digital output signals or voltages that are a digital representation of the quantity being measured, these are Binary outputs in the form of a logic “1” or a logic “0”, (“ON” or “OFF”). This means then that a digital signal only produces discrete (non-continuous) values which may be outputted as a single “bit”, (serial transmission) or by combining the bits to produce a single “byte” output (parallel transmission).
+          </p>
+
+          <p>
+            So ends our short primer on sensor terms, you can read more primer instructions in this <a href="https://itp.nyu.edu/physcomp/lessons/sensors-the-basics/">short ITP article</a>.
+          </p>
+        </li>
+        <!-- STEP 2 -->
+        <li>
+          <h1>Get Started with Blinking Lights</h1>
+          <time>15 minutes</time>
+          <p>
+            To get your feet wet with programming sensors and arduinos, you might want to purchase a <a href="http://www.acgears.com/sparkfun-inventors-kit.html?utm_source=google_shopping&gclid=CIfNoLv3oswCFQUmhgodJRkIDA">Sparkfun Inventor's Kit</a>, and read some tutorials or instructions. We'll include the light-blink tutorial from Johnny 5 here (a Javascript library that lets you program to arduinos with a web scripting language), because it is usually more approachable than the serial/C speak of sensor programming to newbies.
+          </p>
+          <img style="width:100%;height:100%" src="https://raw.githubusercontent.com/rwaldron/johnny-five/master/assets/led-blink.gif">
+
+          <ul>
+            <li><a href="https://github.com/rwaldron/johnny-five#hello-johnny">Check out the 'Hello World' light blink here</a></li>
+            <li><a href="https://github.com/rwaldron/johnny-five#example-programs">Read more about different tutorials with Johnny 5 here</a></li> 
+          </ul>
+        </li>
+
+        <!-- Step 3 -->
+        <li>
+          <h1>Read on and study up!</h1>
+          <time>15 minutes</time>
+          <p>
+            There are loads of curricula online to further your sensor studies beyond the scope of this 30 min kickstart. 
+          </p>
+          <p>
+            Here are some tools to help: 
+          </p>
+          <ol>
+            <li><a href="https://hackaday.io/">Hackaday</a>: world's largest collaborative hardware development community</li>
+            <li><a href="https://www.hackster.io/">Hackster</a>: a community dedicated to learning hardware</li>
+            <li><a href="https://learn.adafruit.com">Learn @ Adafruit</a></li>
+            <li><a href="http://www.allaboutcircuits.com/">All about circuits</a></li>
+            <li><a href="http://www.mysensors.org/about/iot">My Sensors</a>: IOT + Internet of You</li>
+          </ol>
+        </li>
+      </ol>
+
+      <h2 id="glossary">Glossary</h2>
+      <section class="glossary">
+        <section class="term">
+          <h3>Sensor</h3>
+          <p>
+            An object whose purpose is to detect events or changes in its environment, and then provide a corresponding output; a type of transducer.
+          </p>
+        </section>
+        <section class="term">
+          <h3>Analogue/Analog</h3>
+          <p>
+            Analogue signals describe a continuous output signal or voltage, and are useful for measuring physical qualities like Temperature, Speed, Pressure or Displacement.
+          </p>
+        </section>
+        <section class="term">
+          <h3>Digital</h3>
+          <p>
+            Digital signals and objects deal in the realm of the discrete or finite, meaning there is a limited set of values they can be.
+          </p>
+        </section>
+        <section class="term">
+          <h3>Hardware</h3>
+          <p>
+            The physical parts of a computer and related devices. 
+          </p>
+        </section>
+        <section class="term">
+          <h3>Firmware</h3>
+          <p>
+            A type of software that provides control, monitoring and data manipulation of engineered products and systems.
+          </p>
+        </section>
+        <section class="term">
+          <h3>Software</h3>
+          <p>
+            That part of a computer system that consists of encoded information or computer instructions, in contrast to the physical hardware from which the system is built.
+          </p>
+        </section>
+      </section>
+
+      <h2 id="resources">Resources &amp; Materials</h2>
+      <p>
+        You may find it useful to review this handout during the design/sketch phase of your project.
+      </p>
+      <p>
+        The following resources are useful for more information on design and color choice, with a few awesome tools.
+        <ul>
+          <li>
+            <a href="https://learn.sparkfun.com/tutorials/analog-vs-digital">Adafruit</a>: Analogue vs. Digital Sensing.
+          </li>
+          <li>
+            <a href="http://www.arduino.cc/en/main/software">
+            Arduino</a>: cool inexpensive hardware and IDE package to let you bootstrap development.
+          </li>
+          <li>
+            <a href="http://techterms.com/category/hardware">
+            TechTerms</a>: dictionary of Hardware vocabulary.
+          </li>
+          <li>
+            <a href="http://www.seattlerobotics.org/encoder/jul97/basics.html">
+            Seattle Robotics</a>: The basics of some sensor types and terms.
+          </li>
+        </ul>
+      </p>
+
+    </article>
+  </body>
+</html>
