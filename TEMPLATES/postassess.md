@@ -1,13 +1,35 @@
 Friendly GitHub Intro: Post-workshop survey
 
-How familiar are you with GitHub?
-1 - never logged in before
-5 - I know all the lingo
+1. I found value in what I learned at this workshop today.
+1-5
+Strongly disagree - Strongly agree
+Why or why not?
 
-How comfortable are you using GitHub?
-1 - I have no idea what I'm doing
-5 - I can easily move around inside the interface
+2. The workshop space was conducive for learning
+1-5
+Strongly disagree - Strongly agree
+Why or why not?
 
-Did we satisfy your reason for attending this workshop?
+3. The workshop moved at a pace that made it easy for me to learn and participate.
+1-5
+Strongly disagree - Strongly agree
+Why or why not?
 
-Question about project mgmt skills?
+4. I feel comfortable working with the basics of GitHub for project management after this workshop.
+1-5
+Strongly disagree - Strongly agree
+Why or why not?
+
+5. I achieved the goals I wanted to achieve by taking this workshop.
+1-5
+Strongly disagree - Strongly agree
+Why or why not?
+
+What concept/s were most challenging to understand?
+
+Other GitHub topics I'd like to learn more about are...
+
+Would you recommend this workshop to others?
+
+Anything else you'd like to share with us?
+
