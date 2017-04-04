@@ -23,6 +23,8 @@ Feel free to create a new project and/or look around.  Don't worry, you won't br
   * Power cord for said laptop (we will have power available at the tables)
   * Your creativity and experimental mindset.
   
+4. Take a look at the [**RDAP Code of Conduct**](http://www.asis.org/rdap/code-of-conduct/), we'll be operating under that CoC throughout the workshop to help ensure an inclusive, cooperative environment for all participants.
+
 That's it for now!
 
 We'll see you in Seattle!
