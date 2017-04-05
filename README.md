@@ -10,8 +10,25 @@ During this 4-hour workshop we will:
 * look at the tools complementary to GitHub such as gh-pages and gitbook
 
 #### BEFORE THE WORKSHOP
-1. If you don't already have one, set up an account on [GitHub.com](https://github.com/)
-2. ...
+1. If you don't already have a **GitHub account**, please sign up for one now: 
+  * Go to Github.com.  
+  * Click on the "Sign Up" link in the upper right-hand corner. 
+  * Create a user name and enter your email address and a password.
+  * Click on the green "Create an account" button.
+  * Select the "Unlimited public repositories for free." option if not already selected then click the green "Continue" button.
+  * You can choose whether or not to answer the questions on the next page or click the blue link for "Skip this step".
+  * At this point you need to verify the email address by going in to the email account you registered and following the verification instructions.  
+  
+Feel free to create a new project and/or look around.  Don't worry, you won't break anything.  You'll become more familiar with GitHub and the interface during the workshop.
+
+2. Please take 5 minutes or so to respond to our [**pre-workshop survey**](https://docs.google.com/forms/d/e/1FAIpQLSft9j-VxZdqszo747JBtigIggkWDoe17H8SrYj12IpR6NK7Fg/viewform?usp=sf_link).  Your responses will help us tailor the workshop experience as much as we can to accommodate the different needs of participants.
+
+3. Checklist of what to **bring with you**:
+  * Laptop
+  * Power cord for said laptop (we will have power available at the tables)
+  * Your creativity and experimental mindset.
+  
+4. Take a look at the [**RDAP Code of Conduct**](http://www.asis.org/rdap/code-of-conduct/), we'll be operating under that CoC throughout the workshop to help ensure an inclusive, cooperative environment for all participants.
 
 ***
 
