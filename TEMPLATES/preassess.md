@@ -33,3 +33,14 @@ What features of GitHub are you most interested in learning? (check all that app
 5. I don't know! Tell me everything. 
 
 Do you currently use a project management software? If so, tell us what you use.
+
+Check all the apply
+
+1. Undergraduate student
+2. Graduate Student
+3. Postdoctoral researcher or fellow
+4. Staff position at an academic Library
+2. Other staff position at an academic instiution
+3. Library faculty
+4. Other academic faculty
+4. Other
