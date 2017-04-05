@@ -15,8 +15,7 @@ We have a few requests of you ahead of time.
   
 Feel free to create a new project and/or look around.  Don't worry, you won't break anything.  You'll become more familiar with GitHub and the interface during the workshop.
 
-2. Please take 5 minutes or so to respond to our **pre-workshop survey**.  Your responses will help us tailor the workshop experience as much as we can to accommodate the different needs of participants.
-**link to survey**
+2. Please take 5 minutes or so to respond to our [**pre-workshop survey**](https://docs.google.com/forms/d/e/1FAIpQLSft9j-VxZdqszo747JBtigIggkWDoe17H8SrYj12IpR6NK7Fg/viewform?usp=sf_link).  Your responses will help us tailor the workshop experience as much as we can to accommodate the different needs of participants.
 
 3. Checklist of what to **bring with you**:
   * Laptop
