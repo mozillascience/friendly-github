@@ -1,101 +1,84 @@
 ## RUN OF SHOW OUTLINE:
 #### Welcome and Intro to the workshop (5 mins) **Steph** 
-### What GitHub is and how it's used (5 mins) Steve
-
-    Talk about Git (briefly)
-
-    version control: https://swcarpentry.github.io/git-novice/figures/
-
-    open science and reproducible
-
-    back end behind GitHub
-
-    More detail and CLI examples at end?
+#### What GitHub is and how it's used (5 mins) **Steve** 
+Talk about Git (briefly)
+version control: https://swcarpentry.github.io/git-novice/figures/
+open science and reproducible
+back end behind GitHub
+More detail and CLI examples at end?
 
 
-    Examples of how GitHub is used (come back to these when we address topics later on) (10 mins) Steph
+#### Examples of how GitHub is used (come back to these when we address topics later on) (10 mins) **Steph**
 
-    Project mgmt
+1. Project mgmt
 
-    Managing tasks, assigning people to tasks, managing collaborations and groups
+2. Managing tasks, assigning people to tasks, managing collaborations and groups
 
-    GitHub Projects - utility of project boards: https://github.com/daniellecrobinson/fellows-class-2016/projects/2
+3. GitHub Projects - utility of project boards: https://github.com/daniellecrobinson/fellows-class-2016/projects/2
 
-    DAT:https://github.com/datproject
+    * DAT:https://github.com/datproject
 
-    OHSU Library: https://github.com/OHSU-Library
+    * OHSU Library: https://github.com/OHSU-Library
 
-    OSU Library: https://github.com/orgs/osulp/teams
+    * OSU Library: https://github.com/orgs/osulp/teams
 
-    Mozilla Development Team?
+    * Mozilla Development Team?
 
-    Workflow coordination  - DataRefuge : https://github.com/datarefuge
+    * Workflow coordination  - DataRefuge : https://github.com/datarefuge
 
+    * PNW Data Curators - as a website (gh-pages)
 
-    Dissertation creation - Richard Smith-Unna example
+    * Maybe this: https://mozillascience.github.io/WOW-2017/
 
-    Site dead - redirects to kids w/ cholesterol
+    * https://github.com/vantuyls/studyGroup
 
-    PNW Data Curators - as a website (gh-pages)
+    * https://uoftcoders.github.io/studyGroup/
 
-    Maybe this: https://mozillascience.github.io/WOW-2017/
+    * http://gabano.github.io/studyGroup/
 
-    https://github.com/vantuyls/studyGroup
+    * Open Leadership Training Series - gitbook (https://mozillascience.github.io/open-data-primers/ )
 
-    https://uoftcoders.github.io/studyGroup/
+  4. Islandora modules - example of classic repository use and publishing code/documentation (private with commit history vs. public product) Jessica, do you have some links for these?
 
-    http://gabano.github.io/studyGroup/
+   *  https://github.com/islandora <- not sure if there was a specific repo you wanted to showcase, Jessica (or others)
 
-    Open Leadership Training Series - gitbook (https://mozillascience.github.io/open-data-primers/ )
+ 5. Open Access / OER / Open Data
 
-    Islandora modules - example of classic repository use and publishing code/documentation (private with commit history vs. public product) Jessica, do you have some links for these?
+ 6. Open educational resources (OER)
 
-    https://github.com/islandora <- not sure if there was a specific repo you wanted to showcase, Jessica (or others)
+    * NCIT C Programming: https://github.com/crackjack/ncit-c-programming
 
-    Open Access / OER / Open Data
+    * Software Carpentry: https://github.com/swcarpentry/swcarpentry
 
-    Open educational resources (OER)
+    * Mozilla Open Data Training: https://github.com/mozillascience/open-data-training 
 
-    NCIT C Programming: https://github.com/crackjack/ncit-c-programming
+7. Open Data
 
-    Software Carpentry: https://github.com/swcarpentry/swcarpentry
+    * US Congress Legislators: https://github.com/unitedstates/congress-legislators
 
-    Mozilla Open Data Training: https://github.com/mozillascience/open-data-training 
+    * Open Addresses: https://github.com/openaddresses/openaddresses
 
-    Open Data
-
-    US Congress Legislators: https://github.com/unitedstates/congress-legislators
-
-    Open Addresses: https://github.com/openaddresses/openaddresses
-
-    Exoplanet Catalogue: https://github.com/OpenExoplanetCatalogue/open_exoplanet_catalogue
+    * Exoplanet Catalogue: https://github.com/OpenExoplanetCatalogue/open_exoplanet_catalogue
 
 
-    Public vs Private repositories (5 mins) Danielle
+#### Public vs Private repositories (5 mins) Danielle
 
-    why you would work openly - public repository
-
-    why/when/how you would work privately
-
-    Conf organizing, manage internal discussions of keynotes etc
-
-    Can have GH on local server; hold sensitive/commercial data here
-
-    1:1 consultations
-
-    Gateway to openness for researchers not quite ready to open
+1. why you would work openly - public repository
+2. Why/when/how you would work privately
+    * Conf organizing, manage internal discussions of keynotes etc
+    * Can have GH on local server; hold sensitive/commercial data here
+    * 1:1 consultations
+    * Gateway to openness for researchers not quite ready to open
 
 
-    Hands on forking a repository & editing the README (15 mins) Danielle
+#### Hands on forking a repository & editing the README (15 mins) Danielle
 
-    https://github.com/stephwright/project-mgmt
+https://github.com/stephwright/project-mgmt
 
 
-    Lingo Quiz - make better with Socrative: http://www.socrative.com/index.php (8 mins) SOCK-rat-ive - JESSICA first draft
-
-     - would love thoughts on more lingo here, also secondary quiz down below
-
-    https://swcarpentry.github.io/git-novice/04-changes/ 
+#### Lingo Quiz - make better with Socrative: http://www.socrative.com/index.php (8 mins) SOCK-rat-ive - JESSICA first draft
+would love thoughts on more lingo here, also secondary quiz down below
+ https://swcarpentry.github.io/git-novice/04-changes/ 
 
     Repository
 
@@ -104,47 +87,28 @@
     Commit
 
 
-    Small Group Work: Data Management Course Modules  (30 mins) Danielle
+#### Small Group Work: Data Management Course Modules  (30 mins) Danielle
+SMALL GROUP EXERCISE 30-35 people, small groups of 3-4
 
-    30-35 people, small groups of 3-4
-
-    What do we need for our course?
-
-    Readme
-
-    Contributing guide
-
-    Course module ideas (target 10)
-
-    Who is doing the admin (enrollment, tuition?)
-
-    Project
-
-    What's in progress?
-
-    What's done
-
-
-
-    Example: data curation workflow (i.e. editing metadata record) nice!
-
-    Collaborate
-
-    Demo a conflict (vs. have them do it) +1
+1. What do we need for our course?
+    * Readme
+    * Contributing guide
+    * Course module ideas (target 10)
+    * Who is doing the admin (enrollment, tuition?)
+    * Project
+    * What's in progress?
+    * What's done
+Example: data curation workflow (i.e. editing metadata record) nice!
+Collaborate
+Demo a conflict (vs. have them do it) +1
+Release Quiz ?s: 
+Pull Request
+Collaborators vs Contributors (house building - helping build vs dropping off supplies)
+Issues, Labels & Milestones
+fartscroll 
 
 
-    Release Quiz ?s: 
-
-    Pull Request
-
-    Collaborators vs Contributors (house building - helping build vs dropping off supplies)
-
-    Issues, Labels & Milestones
-
-    fartscroll 
-
-
-    Projects (demo) (5 mins) Steve
+#### Projects (demo) (5 mins) Steve
 
     Danielle's Project of Projects: https://github.com/daniellecrobinson/fellows-class-2016/projects/2
 
@@ -158,13 +122,13 @@
 
     Assessment (pace, clear communication, confusion points) (5 mins) Steph
 
-<break> 15 mins (maybe 20)
+#### break 15 mins (maybe 20)
 
-Second Half
+## Second Half
 
-    Review assessment results (5 mins) Steph
+#### Review assessment results (5 mins) Steph
 
-    New Lingo Quiz? (10 mins)
+#### New Lingo Quiz? (10 mins)
 
     Branches (vs Forks) 
 
@@ -177,7 +141,7 @@ Second Half
 
     Command Line briefly
 
-    gh-pages: https://codecademy.com/learn/deploy-a-website (50 minutes)  Jessica
+#### gh-pages: https://codecademy.com/learn/deploy-a-website (50 minutes)  Jessica
 
     EXERCISE: gh-pages for online Data Management 
 
@@ -195,7 +159,7 @@ Second Half
 
     Here's a resource if you want to go off on your own
 
-    EXTRA: demo Git on command line for version control (to satisfy interest of keeners) (5-10 min) (Jessica)
+#### EXTRA: demo Git on command line for version control (to satisfy interest of keeners) (5-10 min) (Jessica)
 
     clone to local and demo from there
 
