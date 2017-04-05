@@ -105,7 +105,7 @@ Release Quiz ?s:
 Pull Request
 Collaborators vs Contributors (house building - helping build vs dropping off supplies)
 Issues, Labels & Milestones
-fartscroll 
+fartscroll  https://github.com/theonion/fartscroll.js (Chrome only) (clone/watch/star/fork)
 
 
 #### Projects (demo) (5 mins) Steve
@@ -139,17 +139,11 @@ fartscroll
     Base vs Master (right?)
 
 
-    Command Line briefly
-
 #### gh-pages: https://codecademy.com/learn/deploy-a-website (50 minutes)  Jessica
 
     EXERCISE: gh-pages for online Data Management 
 
     gh-pages - demo on the repo
-
-    gitbook (?)
-
-    project mgmt repos
 
     demo gitbook (2 min) Steph
 
@@ -171,10 +165,10 @@ fartscroll
 
     resolve conflicts
 
-    Q&A (20 mins) Steph
+#### Q&A (20 mins) Steph
 
-    Assessment (3 min) Steph
+#### Assessment (3 min) Steph
 
 
-https://github.com/theonion/fartscroll.js (Chrome only) (clone/watch/star/fork)
+
 
