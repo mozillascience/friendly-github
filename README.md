@@ -15,7 +15,7 @@ During this 4-hour workshop we will:
   * Click on the "Sign Up" link in the upper right-hand corner. 
   * Create a user name and enter your email address and a password.
   * Click on the green "Create an account" button.
-  * Select the "Unlimited public repositories for free." option if not already selected then click the green "Continue" button.
+  * Select the "Unlimited public repositories for free" option if not already selected then click the green "Continue" button.
   * You can choose whether or not to answer the questions on the next page or click the blue link for "Skip this step".
   * At this point you need to verify the email address by going in to the email account you registered and following the verification instructions.  
   
@@ -35,7 +35,7 @@ Feel free to create a new project and/or look around.  Don't worry, you won't br
 ### Oh, by the way, what's Mozilla Science Lab?? 
 At [Mozilla Science Lab](https://science.mozilla.org/) we help scientists and researchers (anyone from students to established researchers to librarians to citizen scientists) to work openly and do better research, more research, and make that research more useful by sharing it widely.
 
-We organize various types of events & trainings (such as this workshop and the Working Open Workshops), develop learning materials and formats (such as [Mozilla Study Groups](https://science.mozilla.org/programs/studygroups) and other [resources](https://science.mozilla.org/resources)), host platforms for sharing and showcasing open Science projects (such as [MSL Projects](https://science.mozilla.org/projects)), and provide support for leaders in open science (through the [Mozilla Fellows for Science](https://science.mozilla.org/programs/fellowships)).
+We organize various types of events & trainings (such as this workshop and the [Working Open Workshops](https://mozillascience.github.io/WOW-2017/)), develop learning materials and formats (such as [Mozilla Study Groups](https://science.mozilla.org/programs/studygroups) and other [resources](https://science.mozilla.org/resources)), host platforms for sharing and showcasing open Science projects (such as [MSL Projects](https://science.mozilla.org/projects)), and provide support for leaders in open science (through the [Mozilla Fellows for Science](https://science.mozilla.org/programs/fellowships)).
 
 ### Want to get involved?
 Mozilla Science Lab provides several opportunities to get engaged with the open science community.  
