@@ -116,19 +116,17 @@ fartscroll  https://github.com/theonion/fartscroll.js (Chrome only) (clone/watch
 
 #### Projects and other "Social" Features (demo) (5 mins) Steve
 
-
+* Projects
    * what is a project? (trello, etc.)
    * where to find projects?
    * Examples:
       * Danielle's Project of Projects: https://github.com/daniellecrobinson/fellows-class-2016/projects/2
       * An IA project: https://github.com/internetarchive/openlibrary/projects/1
       * Other?
-* Projects
+   * Add an exercise in Projects? (15 mins)
 * Wiki
 * Pulse/Graphs
 * Watch/Star/etc.
-   * Add an exercise in Projects? (15 mins)
-   * Assessment (pace, clear communication, confusion points) (5 mins) Steph
 
 #### Assessment (pace, clear communication, confusion points) (5 mins) Steph
 
