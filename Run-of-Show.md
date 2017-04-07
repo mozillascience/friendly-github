@@ -1,11 +1,12 @@
 ## RUN OF SHOW OUTLINE:
 #### Welcome and Intro to the workshop (5 mins) **Steph** 
 #### What GitHub is and how it's used (5 mins) **Steve** 
-Talk about Git (briefly)
-version control: https://swcarpentry.github.io/git-novice/figures/
-open science and reproducible
-back end behind GitHub
-More detail and CLI examples at end?
+* What is Git? Talk about Git (briefly)
+* Version control: https://swcarpentry.github.io/git-novice/figures/
+* Open science and reproducible
+* Back end behind GitHub
+* Github - front end to Git that provides "social" features (issues, commenting, etc.)
+* More detail and CLI examples at end?
 
 
 #### Examples of how GitHub is used (come back to these when we address topics later on) (10 mins) **Steph**
