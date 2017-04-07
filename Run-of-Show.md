@@ -1,5 +1,10 @@
 ## RUN OF SHOW OUTLINE:
 #### Welcome and Intro to the workshop (5 mins) **Steph** 
+* Welcome
+* Introductions
+* Code of Conduct Reminder
+* Checkin on Github accounts and computer setup
+
 #### What GitHub is and how it's used (5 mins) **Steve** 
 * What is Git? Talk about Git (briefly)
 * Version control: https://swcarpentry.github.io/git-novice/figures/
