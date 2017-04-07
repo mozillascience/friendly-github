@@ -15,17 +15,17 @@ Why or why not?
 Strongly disagree - Strongly agree  
 Why or why not? 
 
-**3. _After the break_, the workshop moved at a pace that made it easy for me to learn and participate.**  
+**4. _After the break_, the workshop moved at a pace that made it easy for me to learn and participate.**  
 1-5  
 Strongly disagree - Strongly agree  
 Why or why not? 
 
-**4. I feel comfortable working with the basics of GitHub for project management after this workshop.**  
+**5. I feel comfortable working with the basics of GitHub for project management after this workshop.**  
 1-5  
 Strongly disagree - Strongly agree  
 Why or why not?  
 
-**5. I achieved the goals I wanted to achieve by taking this workshop.**  
+**6. I achieved the goals I wanted to achieve by taking this workshop.**  
 1-5  
 Strongly disagree - Strongly agree  
 Why or why not?  
