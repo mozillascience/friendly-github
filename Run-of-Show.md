@@ -109,7 +109,7 @@ Issues, Labels & Milestones
 fartscroll  https://github.com/theonion/fartscroll.js (Chrome only) (clone/watch/star/fork)
 
 
-#### Projects (demo) (5 mins) Steve
+#### Projects and other "Social" Features (demo) (5 mins) Steve
 
     Danielle's Project of Projects: https://github.com/daniellecrobinson/fellows-class-2016/projects/2
 
@@ -122,6 +122,10 @@ fartscroll  https://github.com/theonion/fartscroll.js (Chrome only) (clone/watch
     Where Projects is 
 
     Assessment (pace, clear communication, confusion points) (5 mins) Steph
+* Projects
+* Wiki
+* Pulse/Graphs
+* Watch/Star/etc.
 
 #### break 15 mins (maybe 20)
 
