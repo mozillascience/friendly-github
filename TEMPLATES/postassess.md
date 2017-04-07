@@ -18,23 +18,38 @@ Why or why not?
 **4. _After the break_, the workshop moved at a pace that made it easy for me to learn and participate.**  
 1-5  
 Strongly disagree - Strongly agree  
-Why or why not? 
+Why or why not?  
 
-**5. I feel comfortable working with the basics of GitHub for project management after this workshop.**  
+**5. I understand the purpose and possible uses of GitHub.**  
 1-5  
 Strongly disagree - Strongly agree  
 Why or why not?  
 
-**6. I achieved the goals I wanted to achieve by taking this workshop.**  
+**6. I feel comfortable working with the basics of GitHub for project management after this workshop.**  
 1-5  
 Strongly disagree - Strongly agree  
 Why or why not?  
 
-**What concept/s were most challenging to understand?**
+**7. I achieved the goals I wanted to achieve by taking this workshop.**  
+1-5  
+Strongly disagree - Strongly agree  
+Why or why not?  
 
-**Other GitHub topics I'd like to learn more about are...**
+**8a. The topics taught today that were most useful to me were... (check all that apply)
+- GitHub and how it's used
+- How, why, and when to work openly vs privately
+- Hands on forking & editing the README
+- Learning the lingo
+- Small group work on data management course
+- Projects and other "social" features
+- Gh-pages
+- Other...
 
-**Would you recommend this workshop to others?**
+**8b. GitHub topics I'd like to learn more about are...**
 
-**Anything else you'd like to share with us?**
+**8c. What concept/s were most challenging to understand?**
+
+**9. Would you recommend this workshop to others?**
+
+**10. Anything else you'd like to share with us?**
 
