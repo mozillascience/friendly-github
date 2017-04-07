@@ -1,5 +1,10 @@
 ## RUN OF SHOW OUTLINE:
 #### Welcome and Intro to the workshop (5 mins) **Steph** 
+* Welcome
+* Introductions
+* Code of Conduct Reminder
+* Checkin on Github accounts and computer setup
+
 #### What GitHub is and how it's used (5 mins) **Steve** 
 * What is Git? Talk about Git (briefly)
 * Version control: https://swcarpentry.github.io/git-novice/figures/
@@ -109,7 +114,8 @@ Issues, Labels & Milestones
 fartscroll  https://github.com/theonion/fartscroll.js (Chrome only) (clone/watch/star/fork)
 
 
-#### Projects (demo) (5 mins) Steve
+#### Projects and other "Social" Features (demo) (5 mins) Steve
+
 
    * what is a project? (trello, etc.)
    * where to find projects?
@@ -117,9 +123,14 @@ fartscroll  https://github.com/theonion/fartscroll.js (Chrome only) (clone/watch
       * Danielle's Project of Projects: https://github.com/daniellecrobinson/fellows-class-2016/projects/2
       * An IA project: https://github.com/internetarchive/openlibrary/projects/1
       * Other?
-
+* Projects
+* Wiki
+* Pulse/Graphs
+* Watch/Star/etc.
    * Add an exercise in Projects? (15 mins)
    * Assessment (pace, clear communication, confusion points) (5 mins) Steph
+
+#### Assessment (pace, clear communication, confusion points) (5 mins) Steph
 
 #### break 15 mins (maybe 20)
 
