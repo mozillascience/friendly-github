@@ -95,23 +95,7 @@ would love thoughts on more lingo here, also secondary quiz down below
 
 #### Small Group Work: Data Management Course Modules  (30 mins) Danielle
 SMALL GROUP EXERCISE 30-35 people, small groups of 3-4
-
-1. What do we need for our course?
-    * Readme
-    * Contributing guide
-    * Course module ideas (target 10)
-    * Who is doing the admin (enrollment, tuition?)
-    * Project
-    * What's in progress?
-    * What's done
-Example: data curation workflow (i.e. editing metadata record) nice!
-Collaborate
-Demo a conflict (vs. have them do it) +1
-Release Quiz ?s: 
-Pull Request
-Collaborators vs Contributors (house building - helping build vs dropping off supplies)
-Issues, Labels & Milestones
-fartscroll  https://github.com/theonion/fartscroll.js (Chrome only) (clone/watch/star/fork)
+See excercise instructions [here](https://github.com/daniellecrobinson/Data-Management-Modules-RDAP)
 
 
 #### Projects and other "Social" Features (demo) (5 mins) Steve
@@ -127,6 +111,8 @@ fartscroll  https://github.com/theonion/fartscroll.js (Chrome only) (clone/watch
 * Wiki
 * Pulse/Graphs
 * Watch/Star/etc.
+* fartscroll  https://github.com/theonion/fartscroll.js (Chrome only) (clone/watch/star/fork)
+
 
 #### Assessment (pace, clear communication, confusion points) (5 mins) Steph
 
