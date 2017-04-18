@@ -27,6 +27,13 @@ B You request someone to pull your changes into their repository.
 C Updates your remote repository.  
 D Commits to the master branch.
 
+**6. Issues have a feature you can assign to them that allow for filtering and sorting.  Those features are called:**
+
+A Labels
+B Milestones
+C Assignee
+D All of the above
+
 **7. The next series of questions will test your ability to navigate a repository:**  
 https://github.com/theonion/fartscroll.js  
 **What is the title of the most commented pull request?**  After Small Group Work
@@ -39,4 +46,4 @@ CHALLENGE QUESTION **9. The next series of questions will test your ability to n
 https://github.com/theonion/fartscroll.js  
 **Find commit 6f816df2925f06523df56f8ea5a6624cd6729557. What does it replace?**  
 
-**10. Fork vs. clone?** After gh-pages
+CHALLENGE QUESTION?**10. Fork vs. clone?** After gh-pages
