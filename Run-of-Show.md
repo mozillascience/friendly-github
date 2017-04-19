@@ -38,20 +38,15 @@
 https://github.com/stephwright/project-mgmt
 
 
-#### Lingo Quiz - make better with Socrative: http://www.socrative.com/index.php (8 mins) SOCK-rat-ive - JESSICA first draft
-would love thoughts on more lingo here, also secondary quiz down below
- https://swcarpentry.github.io/git-novice/04-changes/ 
+#### Lingo Quiz 1 - make better with Socrative: http://www.socrative.com/index.php (2 mins) SOCK-rat-ive - Steph
 
-    Repository
-
-    Fork
-
-    Commit
 
 
 #### Small Group Work: Data Management Course Modules  (30 mins) Danielle
 SMALL GROUP EXERCISE 30-35 people, small groups of 3-4
 See excercise instructions [here](https://github.com/daniellecrobinson/Data-Management-Modules-RDAP)
+
+#### Lingo Quiz 2 - make better with Socrative: http://www.socrative.com/index.php (6 mins) SOCK-rat-ive - Steph
 
 
 #### Projects and other "Social" Features (demo) (5 mins) Steve
@@ -70,7 +65,7 @@ See excercise instructions [here](https://github.com/daniellecrobinson/Data-Mana
 * fartscroll  https://github.com/theonion/fartscroll.js (Chrome only) (clone/watch/star/fork)
 
 
-#### Assessment (pace, clear communication, confusion points) +'s & deltas (5 mins) Steph
+#### Half-Time Assessment (pace, clear communication, confusion points) +'s & deltas (5 mins) Steph
 
 #### break 15 mins (maybe 20)
 
