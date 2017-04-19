@@ -29,10 +29,10 @@ D Commits to the master branch.
 
 **6. Issues have a feature you can assign to them that allow for filtering and sorting.  Those features are called:**
 
-A Labels
-B Milestones
-C Assignee
-D All of the above
+A Labels  
+B Milestones  
+C Assignee  
+D All of the above  
 
 **7. The next series of questions will test your ability to navigate a repository:**  
 https://github.com/theonion/fartscroll.js  
