@@ -16,56 +16,12 @@
 
 #### Examples of how GitHub is used (come back to these when we address topics later on) (10 mins) **Steph**
 
-1. Project mgmt
-
-2. Managing tasks, assigning people to tasks, managing collaborations and groups
-
-3. GitHub Projects - utility of project boards: https://github.com/daniellecrobinson/fellows-class-2016/projects/2
-
-    * DAT:https://github.com/datproject
-
-    * OHSU Library: https://github.com/OHSU-Library
-
-    * OSU Library: https://github.com/orgs/osulp/teams
-
-    * Mozilla Development Team?
-
-    * Workflow coordination  - DataRefuge : https://github.com/datarefuge
-
-    * PNW Data Curators - as a website (gh-pages)
-
-    * Maybe this: https://mozillascience.github.io/WOW-2017/
-
-    * https://github.com/vantuyls/studyGroup
-
-    * https://uoftcoders.github.io/studyGroup/
-
-    * http://gabano.github.io/studyGroup/
-
-    * Open Leadership Training Series - gitbook (https://mozillascience.github.io/open-data-primers/ )
-
-  4. Islandora modules - example of classic repository use and publishing code/documentation (private with commit history vs. public product) Jessica, do you have some links for these?
-
-   *  https://github.com/islandora <- not sure if there was a specific repo you wanted to showcase, Jessica (or others)
-
- 5. Open Access / OER / Open Data
-
- 6. Open educational resources (OER)
-
-    * NCIT C Programming: https://github.com/crackjack/ncit-c-programming
-
-    * Software Carpentry: https://github.com/swcarpentry/swcarpentry
-
-    * Mozilla Open Data Training: https://github.com/mozillascience/open-data-training 
-
-7. Open Data
-
-    * US Congress Legislators: https://github.com/unitedstates/congress-legislators
-
-    * Open Addresses: https://github.com/openaddresses/openaddresses
-
-    * Exoplanet Catalogue: https://github.com/OpenExoplanetCatalogue/open_exoplanet_catalogue
-
+1. Project Management
+2. Websites
+3. Code documentation
+4. OER
+5. Open Data
+6. All the things
 
 #### Public vs Private repositories (5 mins) Danielle
 
@@ -114,7 +70,7 @@ See excercise instructions [here](https://github.com/daniellecrobinson/Data-Mana
 * fartscroll  https://github.com/theonion/fartscroll.js (Chrome only) (clone/watch/star/fork)
 
 
-#### Assessment (pace, clear communication, confusion points) (5 mins) Steph
+#### Assessment (pace, clear communication, confusion points) +'s & deltas (5 mins) Steph
 
 #### break 15 mins (maybe 20)
 
